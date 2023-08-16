@@ -139,6 +139,7 @@ week late with a penalty of 10%.
 
 Day     | Lecture Topic              | Assignment Due
 Aug. 22 | Introduction               |
+Sep. 4  |                            | Integers and Variables, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/673) or [Python](https://autograder.luddy.indiana.edu/web/project/665)
 
 **Resources:**
 
