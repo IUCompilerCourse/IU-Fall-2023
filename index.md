@@ -141,7 +141,7 @@ Day     | Lecture Topic              | Assignment Due
 Aug. 22 | [Introduction](https://docs.google.com/presentation/d/13jmEAwqD7naNAj0c2IsF0tDhgMyQH-tBW9sZeRgzBt8/edit?usp=sharing)               |
 Aug. 24 | [From Lvar to x86](https://docs.google.com/presentation/d/1KUlWTAvdcKtZNOST9ITpmiOe34lD2DFsycH5oT2oMuU/edit?usp=sharing) |
 Aug. 29 | [Uniquify, Remove Complex Operands, Explicate Control](https://docs.google.com/presentation/d/1KIFtThQVM-u9DVttCT4q_68CVCTlIq_WCUwBOhdaB3o/edit?usp=sharing) [video](https://iu.mediaspace.kaltura.com/media/t/1_l0szlnzg) |
-Aug. 31 | Explicate Control through Prelude & Conclusion |
+Aug. 31 | [Explicate Control through Prelude & Conclusion](https://docs.google.com/presentation/d/1KUlWTAvdcKtZNOST9ITpmiOe34lD2DFsycH5oT2oMuU/edit?usp=sharing) [video](https://iu.mediaspace.kaltura.com/media/t/1_t431x6fs) |
 Sep. 5  |                            | Integers and Variables, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/673) or [Python](https://autograder.luddy.indiana.edu/web/project/665)
 
 **Resources:**
