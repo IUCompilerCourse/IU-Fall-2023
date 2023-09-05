@@ -143,6 +143,9 @@ Aug. 24 | [From Lvar to x86](https://docs.google.com/presentation/d/1KUlWTAvdcKt
 Aug. 29 | [Uniquify, Remove Complex Operands, Explicate Control](https://docs.google.com/presentation/d/1KIFtThQVM-u9DVttCT4q_68CVCTlIq_WCUwBOhdaB3o/edit?usp=sharing), [video](https://iu.mediaspace.kaltura.com/media/t/1_l0szlnzg) |
 Aug. 31 | [Explicate Control through Prelude & Conclusion](https://docs.google.com/presentation/d/1KUlWTAvdcKtZNOST9ITpmiOe34lD2DFsycH5oT2oMuU/edit?usp=sharing), [video](https://iu.mediaspace.kaltura.com/media/t/1_t431x6fs) |
 Sep. 5  |                            | Integers and Variables, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/673) or [Python](https://autograder.luddy.indiana.edu/web/project/665)
+Sep. 11 |                            | Integers and Variables, penalty deadline
+Sep. 18 |                            | Register Allocation, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/668) or [Python](https://autograder.luddy.indiana.edu/web/project/662)
+Sep. 25 |                            | Register Allocation, penalty deadline
 
 **Resources:**
 
