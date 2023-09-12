@@ -144,7 +144,7 @@ Aug. 29 | [Uniquify, Remove Complex Operands, Explicate Control](https://docs.go
 Aug. 31 | [Explicate Control through Prelude & Conclusion](https://docs.google.com/presentation/d/1KUlWTAvdcKtZNOST9ITpmiOe34lD2DFsycH5oT2oMuU/edit?usp=sharing), [video](https://iu.mediaspace.kaltura.com/media/t/1_t431x6fs) |
 Sep. 5  | [Register Allocation, Introduction and Liveness](https://docs.google.com/presentation/d/1jL4M6G6DDnfqOPsCab9_6k7PcV_wRBd4p9Xn2LzobOE/edit?usp=sharing) | Integers and Variables, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/673) or [Python](https://autograder.luddy.indiana.edu/web/project/665)
 Sep. 7  | Code Review: Integers and Variables
-Sep. 11 |                            | Integers and Variables, penalty deadline
+Sep. 12 |                            | Integers and Variables, penalty deadline
 Sep. 18 |                            | Register Allocation, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/668) or [Python](https://autograder.luddy.indiana.edu/web/project/662)
 Sep. 25 |                            | Register Allocation, penalty deadline
 
