@@ -149,6 +149,8 @@ Sep. 14 | [L_If language, type checking, and x86_If](https://docs.google.com/pre
 Sep. 18 |                            | Register Allocation, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/668) or [Python](https://autograder.luddy.indiana.edu/web/project/662)
 Sep. 19 | [Conditionals and Explicate Control](https://docs.google.com/presentation/d/1OALjNzmyLNt_Yg3eV_xjLx7ZxQ_8q2fLLi0I9nJjX9I/edit?usp=sharing) |
 Sep. 25 |                            | Register Allocation, late deadline
+Oct. 02 |                            | Booleans and Conditionals, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/669) or [Python](https://autograder.luddy.indiana.edu/web/project/667)
+Oct. 09 |                            | Booleans and Conditionals, late deadline
 
 **Resources:**
 
