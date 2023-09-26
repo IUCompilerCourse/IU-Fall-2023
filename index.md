@@ -150,6 +150,7 @@ Sep. 18 |                            | Register Allocation, submit in [Racket](h
 Sep. 19 | [Conditionals and Explicate Control](https://docs.google.com/presentation/d/1OALjNzmyLNt_Yg3eV_xjLx7ZxQ_8q2fLLi0I9nJjX9I/edit?usp=sharing) |
 Sep. 21 | [Conditionals: Select Instr., Reg. Alloc., Opt. Jumps](https://docs.google.com/presentation/d/1Zcq1OpvmiMcHDkSZ0qjF2mdYNaov0t5R4qF0h66ryV8/edit?usp=sharing) |
 Sep. 25 |                            | Register Allocation, late deadline
+Sep. 26 | [Loops and Dataflow Analysis](https://docs.google.com/presentation/d/1RPT6wjE_MhMDPMet0nee5dv7WzaHD52shwSpUE84edM/edit?usp=sharing)
 Oct. 02 |                            | Booleans and Conditionals, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/669) or [Python](https://autograder.luddy.indiana.edu/web/project/667)
 Oct. 09 |                            | Booleans and Conditionals, late deadline
 
