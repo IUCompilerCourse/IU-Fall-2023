@@ -152,8 +152,12 @@ Sep. 21 | [Conditionals: Select Instr., Reg. Alloc., Opt. Jumps](https://docs.go
 Sep. 25 |                            | Register Allocation, late deadline
 Sep. 26 | [Loops and Dataflow Analysis](https://docs.google.com/presentation/d/1RPT6wjE_MhMDPMet0nee5dv7WzaHD52shwSpUE84edM/edit?usp=sharing)
 Sep. 28 | [Loops: RCO, Explicate, Challenge](https://docs.google.com/presentation/d/18cN5P4pEuDds5U40Hqa6WDP-LdoyYBg2RCRML37QL5k/edit?usp=sharing) |
-Oct. 02 |                            | Booleans and Conditionals, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/669) or [Python](https://autograder.luddy.indiana.edu/web/project/667)
-Oct. 09 |                            | Booleans and Conditionals, late deadline
+Oct. 2 |                            | Booleans and Conditionals, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/669) or [Python](https://autograder.luddy.indiana.edu/web/project/667)
+Oct. 3 | Code Review: Conditionals  |
+Oct. 5 | 
+Oct. 9 |                            | Booleans and Conditionals, late deadline
+Oct. 17 | Review for Midterm Exam
+Oct. 19 | **Midterm Exam**
 
 **Resources:**
 
