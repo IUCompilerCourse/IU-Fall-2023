@@ -87,7 +87,7 @@ will take into account any technology problems that arrise, i.e., you
 won't fail the class because your internet went out.
 
 * Assignments (40%)
-* Midterm Exam (October 20, in class) (25%)
+* Midterm Exam (25%)
 * Final Exam (TBA) (35%)
 
 **Assignments:**
