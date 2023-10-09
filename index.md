@@ -156,10 +156,10 @@ Oct. 2 |                            | Booleans and Conditionals, submit in [Rack
 Oct. 3 | Code Review: Conditionals     |
 Oct. 5 | [Tuples and Garbage Collection](https://docs.google.com/presentation/d/1LTyqurU5c1MfzBJAjuuLJKZYAYqyjLggaZn-MIV4ocg/edit?usp=sharing) |
 Oct. 9 |                               | Booleans and Conditionals, late deadline
-Oct. 17 | Review for Midterm Exam
 Oct, 16 |                            | Loops, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/670) or [Python](https://autograder.luddy.indiana.edu/web/project/663)
-Oct, 23 |                               | Loops, late deadline
+Oct. 17 | Review for Midterm Exam
 Oct. 19 | **Midterm Exam**
+Oct, 23 |                               | Loops, late deadline
 
 **Resources:**
 
