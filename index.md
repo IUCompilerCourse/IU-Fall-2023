@@ -156,6 +156,7 @@ Oct. 2 |                            | Booleans and Conditionals, submit in [Rack
 Oct. 3 | Code Review: Conditionals     |
 Oct. 5 | [Tuples and Garbage Collection](https://docs.google.com/presentation/d/1LTyqurU5c1MfzBJAjuuLJKZYAYqyjLggaZn-MIV4ocg/edit?usp=sharing) |
 Oct. 9 |                               | Booleans and Conditionals, late deadline
+Oct. 10 | [Tuples and GC, cont'd](https://docs.google.com/presentation/d/1SYAsDrtEP0aY9R18oibuZvJkhVzeHlfthjR1_Kii6nM/edit?usp=sharing)
 Oct. 17 | Review for Midterm Exam
 Oct. 19 | **Midterm Exam**
 
