@@ -161,7 +161,11 @@ Oct. 12 | [Arrays, Structs, Generational GC](https://docs.google.com/presentatio
 Oct. 16 |                            | Loops, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/670) or [Python](https://autograder.luddy.indiana.edu/web/project/663)
 Oct. 17 | Review for Midterm Exam
 Oct. 19 | **Midterm Exam**
-Oct, 23 |                               | Loops, late deadline
+Oct. 23 |                               | Loops, late deadline
+Oct. 30 |                            | Tuples, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/671) or [Python](https://autograder.luddy.indiana.edu/web/project/666)
+Nov. 6 |                               | Tuples, late deadline
+
+
 
 **Resources:**
 
