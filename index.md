@@ -174,6 +174,9 @@ Nov. 6 |                               | Tuples, late deadline
 
 * Practice exams:
   - Midterm from 2022: [Python](./2022-python-midterm.pdf), [Python with solutions](./2022-python-midterm-soln.pdf), [Racket](./2022-racket-midterm.pdf), [Racket with solutions](./2022-racket-midterm-soln.pdf)
+  - Final from 2022: [Python](./2022-python-final.pdf), [Python with solutions](./2022-python-final-soln.pdf), [Racket](./2022-racket-final.pdf), [Racket with solutions](./2022-racket-final-soln.pdf)
+  - Final from 2021: 
+  
 * Lecture videos recorded from the [2020 course](https://iucompilercourse.github.io/IU-P423-P523-E313-E513-Fall-2020/).
 * Github repository for the support code and test suites
     - for [Racket](https://github.com/IUCompilerCourse/public-student-support-code) 
