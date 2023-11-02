@@ -166,6 +166,7 @@ Oct. 24 | [Compiling Functions to x86](https://docs.google.com/presentation/d/12
 Oct. 26 | Compiling Functions, cont'd
 Oct. 30 |                            | Tuples, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/671) or [Python](https://autograder.luddy.indiana.edu/web/project/666)
 Oct. 31 | Code Review: Loops
+Nov. 2 | [Lexically Scoped Functions](https://docs.google.com/presentation/d/1C33rWgJFXUv4tvhEnxzNhsJCc0L6t1BMWDaswuCL47w/edit?usp=sharing)
 Nov. 6 |                               | Tuples, late deadline
 Nov. 13 |                            | Functions, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/672) or [Python](https://autograder.luddy.indiana.edu/web/project/664)
 Nov. 20 |                               | Functions, late deadline
