@@ -168,6 +168,7 @@ Oct. 30 |                            | Tuples, submit in [Racket](https://autogr
 Oct. 31 | Code Review: Loops
 Nov. 2 | [Lexically Scoped Functions](https://docs.google.com/presentation/d/1C33rWgJFXUv4tvhEnxzNhsJCc0L6t1BMWDaswuCL47w/edit?usp=sharing)
 Nov. 6 |                               | Tuples, late deadline
+Nov. 7 | Code Review: Tuples
 Nov. 13 |                            | Functions, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/672) or [Python](https://autograder.luddy.indiana.edu/web/project/664)
 Nov. 20 |                               | Functions, late deadline
 
