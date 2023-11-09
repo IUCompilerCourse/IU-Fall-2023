@@ -171,7 +171,9 @@ Nov. 6 |                               | Tuples, late deadline
 Nov. 7 | Code Review: Tuples
 Nov. 9 | [Dynamic Typing](https://docs.google.com/presentation/d/1vhGJ54-ZBcW7GsS2nLhaqkAkFRDGdMRGk-Onv_jQYmI/edit?usp=sharing) | 
 Nov. 13 |                            | Functions, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/672) or [Python](https://autograder.luddy.indiana.edu/web/project/664)
+Nov. 17 |                               | Due: Proposal for Final Project
 Nov. 20 |                               | Functions, late deadline
+Nov. 20 <br> - <br> Nov. 24 | **Thanksgiving Break**
 
 
 **Resources:**
