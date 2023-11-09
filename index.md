@@ -169,7 +169,7 @@ Oct. 31 | Code Review: Loops
 Nov. 2 | [Lexically Scoped Functions](https://docs.google.com/presentation/d/1C33rWgJFXUv4tvhEnxzNhsJCc0L6t1BMWDaswuCL47w/edit?usp=sharing)
 Nov. 6 |                               | Tuples, late deadline
 Nov. 7 | Code Review: Tuples
-Nov. 9 | [Optimize Closures](https://docs.google.com/presentation/d/1RQr5EJgQ1SvKUxBHtyQEhOlK0XW631Tgcw2dP7EtHOY/edit?usp=sharing) | 
+Nov. 9 | [Dynamic Typing](https://docs.google.com/presentation/d/1vhGJ54-ZBcW7GsS2nLhaqkAkFRDGdMRGk-Onv_jQYmI/edit?usp=sharing) | 
 Nov. 13 |                            | Functions, submit in [Racket](https://autograder.luddy.indiana.edu/web/project/672) or [Python](https://autograder.luddy.indiana.edu/web/project/664)
 Nov. 20 |                               | Functions, late deadline
 
