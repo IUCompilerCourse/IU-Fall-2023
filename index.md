@@ -180,6 +180,7 @@ Nov. 28 | Code Review: Functions
 Nov. 30 | TBD
 Dec. 5  | TBD
 Dec. 7  | Review for Final Exam
+Dec. 8 |                            | Final Project, see [canvas assignment description](https://iu.instructure.com/courses/2165840/assignments/15579509) (no late deadline)
 Dec. 12 | **Final Exam** 3-5pm
 
 **Resources:**
