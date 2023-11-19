@@ -174,8 +174,8 @@ Nov. 13 |                            | Functions, submit in [Racket](https://aut
 Nov. 14 | [Gradual Typing](https://docs.google.com/presentation/d/17AfL6HTSGPdiLxGOs_wSRc0i5xoLF1QYPL-A7i1U_Ag/edit?usp=sharing)
 Nov. 16 | [Generics](https://docs.google.com/presentation/d/1772Bs1E1XPF2duXquzGMEcjFt_a5Ssa0DgcureURfgI/edit?usp=sharing)
 Nov. 17 |                               | Due: Proposal for Final Project
-Nov. 20 |                               | Functions, late deadline
 Nov. 20 <br> - <br> Nov. 24 | **Thanksgiving Break**
+Nov. 27 |                               | Functions, late deadline
 Nov. 28 | Code Review: Functions
 Nov. 30 | TBD
 Dec. 5  | TBD
