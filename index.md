@@ -124,8 +124,6 @@ your code.
 In contrast, for quizzes and exams, students are asked to work
 alone. The quizzes and exams are closed book.
 
-The Final Project is due Dec. 9 and may be turned in late up to
-Dec. 13.
 
 **Late assignment policy:** Assignments may be turned in up to one
 week late with a penalty of 10%.
