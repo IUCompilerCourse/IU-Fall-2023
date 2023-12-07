@@ -175,9 +175,9 @@ Nov. 17 |                               | Due: Proposal for Final Project
 Nov. 20 <br> - <br> Nov. 24 | **Thanksgiving Break**
 Nov. 27 |                               | Functions, late deadline
 Nov. 28 | Code Review: Functions
-Nov. 30 | TBD
-Dec. 5  | TBD
-Dec. 7  | Review for Final Exam
+Nov. 30 | Objects
+Dec. 5  | Inlining
+Dec. 7  | [Review for Final Exam](./Dec-7.md)
 Dec. 8 |                            | Final Project, see [canvas assignment description](https://iu.instructure.com/courses/2165840/assignments/15579509) (no late deadline)
 Dec. 12 | **Final Exam** 3-5pm
 
